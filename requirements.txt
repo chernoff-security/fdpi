@@ -1,0 +1,3 @@
+pytubefix
+simple_term_menu
+rich
